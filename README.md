@@ -1,0 +1,1 @@
+This repository contains the academic paper exploring the impact of decision fatigue on individuals' financial planning and saving behavior. The paper examines psychological factors influencing financial decisions, focusing on how mental exhaustion from making repeated decisions can lead to poorer financial outcomes
